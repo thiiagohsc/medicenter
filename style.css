@@ -18,6 +18,7 @@ header{
  .logo{
     display: flex;
     align-items: center;
+    margin-right: 30px;
  }
  .menu{
   display: flex;

@@ -4,6 +4,7 @@
 body{
     margin: 0;
     padding: 0;
+    margin-bottom: 400px;
 }
 header{
     display: flex;
@@ -119,8 +120,51 @@ nav a:hover{
     display: flex;
     justify-content: space-between;  
     font-size: 14px;
-    font-family: Open Sans;
+    padding-top: 15px;
 }
 hr{
     opacity: 0.1;
+}
+
+#geral{
+    display: flex;
+    justify-content: center;
+
+}
+#geral section{
+    flex: 2;
+}
+#geral aside{
+    flex: 1;
+}
+.widget_title{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.widget_title_text{
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+}
+.widget_title_bar{
+    width: 50px;
+    height: 2px;
+    background-color: #36a9e1;
+    margin-top: 10px;
+}
+.widget_deparments_blocos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.square1{
+    height: 140px;
+    width: 152px;
+    background-color: #36A9E1;
+    margin: 6px;
+}
+.widget_appointment{
+    color: #7C7CA6;
+}
+.widget_appointment_text{
+    font-size: 18px;
 }

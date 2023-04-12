@@ -207,7 +207,7 @@ article .news_title {
     margin-top: 25px;
     margin-bottom: 25px;
     font-size: 23px;
-    columns: black;
+    color: black;
 }
 article .news_resume {
     font-size: 14px;

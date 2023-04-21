@@ -225,7 +225,6 @@ footer{
 .fm_1, .fm_2, .fm_3{
     flex: 1;
     color: white;
-    padding: 20px;
 }
 .fm_1{
     background-color:#39aae1;
@@ -235,6 +234,12 @@ footer{
 }
 .fm_3{
     background-color:#2b4c99;
+}
+footer a{
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    color: white
 }
 .footer_area{
     display: flex;

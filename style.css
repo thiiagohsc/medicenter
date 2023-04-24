@@ -263,13 +263,20 @@ footer .widget_title_text{
     color: white;
     font-weight: normal;
 }
-
-
-
-
-
-
-
+footer .widget_body{
+    color: #5c5c5c;
+    font-size:13px;
+    padding-right: 30px;
+}
+footer .footer_mediclinic{
+    padding-top: 20px;
+}
+footer .mediclic_adress{
+    justify-content: space-between;
+}
+footer .footer_email{
+    color: white;
+}
 
 .footer_copy{
     border-top: 1px solid #2c2c2c;
@@ -278,4 +285,7 @@ footer .widget_title_text{
     color: #5c5c5c;
     font-size: 12px;
     margin-top: 30px;
+}
+footer .flex_column1{
+    flex-direction: column-reverse;
 }

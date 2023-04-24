@@ -235,12 +235,20 @@ footer{
 .fm_3{
     background-color:#2b4c99;
 }
+footer .fm_title{
+    font-size: 20px;
+}
+footer .fm_descricao{
+    font-size: 12px;
+    margin-top: 15px;
+}
 footer a{
     text-decoration: none;
     display: block;
     padding: 20px;
     color: white
 }
+
 .footer_area{
     display: flex;
 }
@@ -253,7 +261,16 @@ footer a{
 }
 footer .widget_title_text{
     color: white;
+    font-weight: normal;
 }
+
+
+
+
+
+
+
+
 .footer_copy{
     border-top: 1px solid #2c2c2c;
     height: 40px;

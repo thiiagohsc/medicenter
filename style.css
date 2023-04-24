@@ -286,6 +286,6 @@ footer .footer_email{
     font-size: 12px;
     margin-top: 30px;
 }
-footer .flex_column1{
-    flex-direction: column-reverse;
+footer .footer_aluno{
+    justify-content: space-between;
 }

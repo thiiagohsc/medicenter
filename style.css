@@ -301,7 +301,7 @@ footer .footer_aluno{
     height: 40px;
     width: 40px;
 }
-@media (max-width:700px) {
+@media (max-width:730px) {
         .banner_headline{
             padding: 20px;
         }
